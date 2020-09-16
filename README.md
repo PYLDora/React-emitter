@@ -1,2 +1,2 @@
 # React-emitter
-the simple test of fbemitter 
+简单的测试emitter的用法  博客见  https://blog.csdn.net/Hhalcyon/article/details/108612919
